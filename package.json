@@ -1,0 +1,14 @@
+{
+  "name": "design-pattern",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This repository is dedicated to storing and learning various design patterns in software development. Each pattern is implemented in JavaScript and includes examples and explanations.",
+  "main": "index.js",
+  "keywords": [
+    "design-pattern",
+    "software-development",
+    "javascript"
+  ],
+  "author": "dannycahyo",
+  "license": "ISC"
+}
