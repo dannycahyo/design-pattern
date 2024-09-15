@@ -1,0 +1,11 @@
+# Design Patterns Learning Repository
+
+This repository is dedicated to storing and learning various design patterns in software development. Each pattern is implemented in JavaScript and includes examples and explanations.
+
+## Design Patterns Included
+
+- Proxy Pattern: A proxy pattern is a structural design pattern that provides a surrogate or placeholder object for another object. It controls access to the original object, allowing you to perform something either before or after the request gets through to the original object.
+
+## Contributing
+
+If you would like to contribute to this repository, please fork the repository and submit a pull request. Make sure to include tests for any new patterns or updates.
